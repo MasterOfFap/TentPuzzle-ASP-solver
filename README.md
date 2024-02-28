@@ -5,5 +5,4 @@ Will work in a ubuntu environment or using the Anaconda prompt together with pot
 
 Command example 
 
-
 clingo domainChoices.lp problem5x10.lp
